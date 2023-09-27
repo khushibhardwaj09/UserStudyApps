@@ -1,0 +1,22 @@
+{
+	"bluefileName":"french fries",
+	"blueframeNumber":65,
+	"bluefolderName":"MacarthurBates/french fries",
+	"blueImageName":"WordIcons/french fries",
+	"greenfileName":"for",
+	"greenframeNumber":57,
+	"greenfolderName":"MacarthurBates/for",
+	"greenImageName":"WordIcons/for",
+	"redfileName":"chocolate",
+	"redframeNumber":69,
+	"redfolderName":"MacarthurBates/chocolate",
+	"redImageName":"WordIcons/chocolate",
+	"violetfileName":"stuck",
+	"violetframeNumber":63,
+	"violetfolderName":"MacarthurBates/stuck",
+	"violetImageName":"WordIcons/stuck",
+	"yellowfileName":"sleep",
+	"yellowframeNumber":55,
+	"yellowfolderName":"MacarthurBates/sleep",
+	"yellowImageName":"WordIcons/sleep"
+}
