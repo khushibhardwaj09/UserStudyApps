@@ -1,0 +1,22 @@
+{
+	"bluefileName":"tiger",
+	"blueframeNumber":48,
+	"bluefolderName":"MacarthurBates/tiger",
+	"blueImageName":"WordIcons/tiger",
+	"greenfileName":"make",
+	"greenframeNumber":38,
+	"greenfolderName":"MacarthurBates/make",
+	"greenImageName":"WordIcons/make",
+	"redfileName":"hungry",
+	"redframeNumber":54,
+	"redfolderName":"MacarthurBates/hungry",
+	"redImageName":"WordIcons/hungry",
+	"violetfileName":"tree",
+	"violetframeNumber":56,
+	"violetfolderName":"MacarthurBates/tree",
+	"violetImageName":"WordIcons/tree",
+	"yellowfileName":"find",
+	"yellowframeNumber":59,
+	"yellowfolderName":"MacarthurBates/find",
+	"yellowImageName":"WordIcons/find"
+}

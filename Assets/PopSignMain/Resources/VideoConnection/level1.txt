@@ -1,0 +1,22 @@
+{
+    "bluefileName":"dance",
+    "blueframeNumber":70,
+    "bluefolderName":"MacarthurBates/dance",
+    "blueImageName":"WordIcons/dance",
+    "greenfileName":"food",
+    "greenframeNumber":27,
+    "greenfolderName":"MacarthurBates/food",
+    "greenImageName":"WordIcons/food",
+    "redfileName":"old",
+    "redframeNumber":44,
+    "redfolderName":"MacarthurBates/old", 
+    "redImageName":"WordIcons/old", 
+    "violetfileName":"zebra", 
+    "violetframeNumber":59,
+    "violetfolderName":"MacarthurBates/zebra", 
+    "violetImageName":"WordIcons/zebra", 
+    "yellowfileName":"yellow",
+    "yellowframeNumber": 53,
+    "yellowfolderName":"MacarthurBates/yellow",
+    "yellowImageName":"WordIcons/yellow"
+}

@@ -1,0 +1,22 @@
+{
+	"bluefileName":"lion",
+	"blueframeNumber":55,
+	"bluefolderName":"MacarthurBates/lion",
+	"blueImageName":"WordIcons/lion",
+	"greenfileName":"drink",
+	"greenframeNumber":86,
+	"greenfolderName":"MacarthurBates/drink",
+	"greenImageName":"WordIcons/drink",
+	"redfileName":"please",
+	"redframeNumber":60,
+	"redfolderName":"MacarthurBates/please",
+	"redImageName":"WordIcons/please",
+	"violetfileName":"napkin",
+	"violetframeNumber":75,
+	"violetfolderName":"MacarthurBates/napkin",
+	"violetImageName":"WordIcons/napkin",
+	"yellowfileName":"mom",
+	"yellowframeNumber":43,
+	"yellowfolderName":"MacarthurBates/mom",
+	"yellowImageName":"WordIcons/mom"
+}
